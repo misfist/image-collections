@@ -1,54 +1,403 @@
-[{
-	"title": "Image title",
-	"path": "http://dummyimage.com/600x400/330000/ffffff",
-	"description": "",
-	"set": "Collection One"
-},
 {
-	"title": "Image title 2",
-	"path": "http://dummyimage.com/600x400/cccccc/333",
-	"description": "",
-	"set": "Collection One"
-},
-{
-	"title": "Image title 3",
-	"path": "http://dummyimage.com/600x400/660000/333",
-	"description": "",
-	"set": "Collection One"
-},
-{
-	"title": "Image title 9",
-	"path": "http://dummyimage.com/600x400/ffcc00/333",
-	"description": "",
-	"set": "Collection Two"
-},
-{
-	"title": "Image title 4",
-	"path": "http://dummyimage.com/600x400/efefef/333",
-	"description": "",
-	"set": "Collection Two"
-},
-{
-	"title": "Image title 5",
-	"path": "http://dummyimage.com/600x400/dddddd/333",
-	"description": "",
-	"set": "Collection Two"
-},
-{
-	"title": "Image title 6",
-	"path": "http://dummyimage.com/600x400/cccccc/333",
-	"description": "",
-	"set": "Collection Three"
-},
-{
-	"title": "Image title 7",
-	"path": "http://dummyimage.com/600x400/666666/333",
-	"description": "",
-	"set": "Collection Three"
-},
-{
-	"title": "Image title 8",
-	"path": "http://dummyimage.com/600x400/cccccc/333",
-	"description": "",
-	"set": "Collection Three"
-}]
+	"100n": [
+		{
+			"title": "Image title",
+			"path": "assets/images/100N3-1.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-3.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-3.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-4.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-5.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-6.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-7.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-8.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-9.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-10.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-11.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-12.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-13.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-14.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		},
+				{
+			"title": "Image title",
+			"path": "assets/images/100N3-15.jpg",
+			"description": "100N3&nbsp;&nbsp;A first development project consisting of 3 stores and 24 loft style apartments with soaring 15ft ceiling height and mezzanines. 100N3 was sold out within a few months on the market."
+		}
+	],
+	"wythe": [
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		},
+		{
+			"title": "Image title 1",
+			"path": "assets/images/wythe-1.jpg",
+			"description": "263 wythe <em>NOW</em>&nbsp;&nbsp;A new energy efficient boutique development featuring airy and spacious full floor residences with private elevator access, radiant heated flooring, 8 inch wide planks, exposures on all sides, expansive views, generous outdoor spaces, seamless Molteni-DADA kitchens and other cutting edge aesthetics"
+		}
+	],
+	"townhouse": [
+		{
+			"title": "Image title 1",
+			"path": "http://dummyimage.com/600x400/b326b3/111111&text=dummy+image",
+			"description": "Townhouse&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+		},
+		{
+			"title": "Image 2",
+			"path": "assets/images/perry-2.jpg",
+			"description": "Townhouse&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+		}
+	],
+	"beach": [
+		{
+			"title": "Title 1",
+			"path": "assets/images/cahuita-1.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "Title 2",
+			"path": "assets/images/cahuita-2.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-3.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-4.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-5.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-6.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-7.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-8.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-9.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-10.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-11.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-12.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-13.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-14.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-15.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-16.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-17.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-18.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-19.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-20.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-21.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-23.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		},
+		{
+			"title": "",
+			"path": "assets/images/cahuita-24.jpg",
+			"description": "<strong>This is a very different and exciting, tropical project designed by EBH and Seema Singh. Almost two years were spent visiting Costa Rica and its’ very wet and lush climate before finalizing the design of this house. They did different designs every year after every trip and settled on their 4th and final plans. A more natural and integrated design using thatched palms and areno (?) wood. A semi- douro (hard) wood.</strong><strong>Because of the amount of rain in Costa Rica, their dreams of a flat “Bauhaus” like roof was out the window. It was all about the roof and it’s overhang and gradient to protect the deck and the rest of the house from the rain. The rain falls in all direction, vertically, diagonally and sometimes horizontally assisted by the wind. So even with the best overhang, getting hit with a little bit of rain is a way of life in Costa Rica. </strong><strong>Since they decided on a traditional structure with a more zen like feel with clean lines and openeness, instead of a very Bauhaus like cement structure, they choose to work with two natural materials: Wood for the structure and the house  and the other,  a very different and exciting material, thatched palms for the roof.</strong><strong>A long time ago every house in the village was built with a thatched roof. Now they are all replaced with galvanized sheets or tiles. In the dry season (even in the dry season it rains) the freshness and coolness of a thatched roof in comparison with a galvanized and tiled roof can be tremendous. The pitch of the roof needs to be 45degrees so the water drains easily from the palms, resulting in a very cathedral like ceiling; thus, creating air flow and ventilation.</strong><strong>Its not only important that the palms are dried but also the wood. Drying wood in Costa Rica can somewhat be different from drying wood in the US. The are leaned against trees, in the shade to dry. Its very important they are not in the sun. Otherwise the wood would warp. The columns were all hand milled from square pieces of lumber to round supporting columns which is a very important feature in this architecture.</strong><strong>In the end, what was created was a tropical, wooden, beach house with a cathedral like ceiling with thatched palms ,  soaring up to 25ft in the sky. The frame of the roof is supported by very elegant, round columns and the wide deck flows in into an L shape. This house gives the sense of indoor – outdoor living and is fully opened at the upper level by wall to wall folding doors in the entire front and windows in the kitchen suspended by ropes, giving a surf like, beach feel with unobstructed beach views. </strong>"
+		}
+	],
+	"art": [
+		{
+			"title": "Image Title 2",
+			"path": "assets/images/art-1.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "Image Title 3",
+			"path": "assets/images/art-2.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "Image Title 4",
+			"path": "assets/images/art-3.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-4.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-5.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-6.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-7.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-8.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-9.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-10.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-11.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-12.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-13.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-14.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-15.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-16.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-17.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-18.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-19.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-20.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-21.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-22.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-23.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-24.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		},
+		{
+			"title": "",
+			"path": "assets/images/art-25.jpg",
+			"description": "Sans titre / Untitled&nbsp;&nbsp;1994<br>Oilsticks, crayons&nbsp;&nbsp;63.5 x 73.66cm / 25 x 129in"
+		}
+	]	
+}

@@ -35,7 +35,7 @@
 
             <div class="beach">
                 <a href="proj-beach.php"><img src="images/cahuita-1.jpg" width="275" height="180"></a>
-                <p><a href="proj-townhouse.php">Beach House, Costa Rica</a></p>
+                <p><a href="proj-beach.php">Beach House, Costa Rica</a></p>
             </div>
         </div> <!-- wrapper2 close -->      
 

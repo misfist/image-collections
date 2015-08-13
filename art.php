@@ -17,7 +17,7 @@
 						<!-- <img src="images/cahuita-1.jpg" width="747" height="500"> -->
 
 						<?php 
-			               	$url = 'data/dataCollections2.json';
+			               	$url = 'data/data.json';
 							$content = file_get_contents($url);
 							$json = json_decode($content, true);
 
