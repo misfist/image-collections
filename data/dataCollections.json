@@ -1,0 +1,53 @@
+{
+	"collection1": [
+		{
+			"title": "Collection One - Image title",
+			"path": "http://dummyimage.com/600x400/660000/333",
+			"description": "Some description goes here."
+		},
+		{
+			"title": "Image title 2",
+			"path": "http://dummyimage.com/600x400/cccccc/333",
+			"description": "Lorem ipsom"
+		},
+		{
+			"title": "Image title 3",
+			"path": "http://dummyimage.com/600x400/777777/333",
+			"description": ""
+		}
+	],
+	"florida": [
+		{
+			"title": "Image title 1",
+			"path": "http://dummyimage.com/600x400/cccccc/333",
+			"description": ""
+		},
+		{
+			"title": "Image title 1",
+			"path": "http://dummyimage.com/600x400/ffcc00/333",
+			"description": ""
+		},
+		{
+			"title": "Image title 1",
+			"path": "http://dummyimage.com/600x400/cccccc/333",
+			"description": ""
+		}
+	],
+	"beach": [
+		{
+			"title": "",
+			"path": "http://dummyimage.com/600x400/330000/333",
+			"description": "Beach House, Costa Rica<em>This</em> is a very different and exciting, tropical project designed by EBH and Seema Singh. More than two years were spent visiting and revisiting Costa Rica to learn more about its very wet climate, lush and natural environment, way of life of the residences and how different materials age in such a climate."
+		},
+		{
+			"title": "",
+			"path": "http://dummyimage.com/600x400/cccccc/333",
+			"description": "Some other text"
+		},
+		{
+			"title": "",
+			"path": "http://dummyimage.com/600x400/dedede/333",
+			"description": "Blah, blah"
+		}
+	]
+}
