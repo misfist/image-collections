@@ -79,29 +79,7 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 <script type="text/javascript" src="assets/js/slick.js"></script>
-
-<script>
- $('#feature-image').slick({
-  slidesToShow: 1,
-  slidesToScroll: 1,
-  arrows: true,
-  fade: true,
-  asNavFor: '.slider-nav'
-});
-
-$('#image-list').slick({
-  slidesToShow: 6,
-  slidesToScroll: 2,
-  variableWidth: false,
-  asNavFor: '#feature-image',
-  arrows: true,
-  dots: false,
-  centerMode: false,
-  focusOnSelect: true,
-  vertical: true,
-  infinite: false
-});
-</script>
+<script type="text/javascript" src="assets/js/main.js"></script>
 
 
 </body>
