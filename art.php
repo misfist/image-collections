@@ -2,7 +2,7 @@
 <?php include_once('headv2.php'); ?>
 
 
-<body class="proj-art" data-collection="art">
+<body class="art" data-collection="art">
     <div class="page-wrapper" class="group">
 
         <?php include_once('header.php'); ?>
