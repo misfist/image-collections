@@ -10,7 +10,7 @@
         <div class="container">
 
         	<main>
-        		<div id="feature-image" class="left-img owl-carousel">
+        		<div id="feature-image" class="left-img">
 					<!-- <img src="images/cahuita-1.jpg" width="747" height="500"> -->
 
 					<?php 
@@ -78,7 +78,7 @@
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
+<script type="text/javascript" src="assets/js/slick.js"></script>
 
 <script>
  $('#feature-image').slick({
@@ -86,18 +86,20 @@
   slidesToScroll: 1,
   arrows: true,
   fade: true,
-  asNavFor: '.slider-nav',
+  asNavFor: '.slider-nav'
 });
 
 $('#image-list').slick({
-  slidesToShow: 5,
+  slidesToShow: 6,
   slidesToScroll: 2,
+  variableWidth: false,
   asNavFor: '#feature-image',
   arrows: true,
   dots: false,
   centerMode: false,
   focusOnSelect: true,
   vertical: true,
+  infinite: false
 });
 </script>
 
