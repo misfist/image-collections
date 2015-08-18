@@ -682,16 +682,6 @@
         unevenOffset = (_.slideCount % _.options.slidesToScroll !== 0);
         indexOffset = unevenOffset ? 0 : (_.slideCount - _.currentSlide) % _.options.slidesToScroll;
 
-        console.log( '_.slideCount', _.slideCount );
-
-        console.log( '_.currentSlide', _.currentSlide );
-
-        console.log( '_.options.slidesToShow', _.options.slidesToShow );
-
-        if( ( _.slideCount - _.options.slidesToShow ) < _.options.slidesToScroll ) {
-            $( '.slick-list .slick-next' ).prop( 'disabled', true );
-        }
-
         switch (event.data.message) {
 
             case 'previous':
