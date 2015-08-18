@@ -114,7 +114,8 @@ html {
 		}
 
 	.footer {
-		margin-top: 20px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 
 
@@ -146,7 +147,8 @@ html {
 			/*Active Nav States*/
 
 			.profile a.nav-profile,
-			.projects a.[class^="proj-"],
+			[class^="proj-"] a.nav-projects,
+			.projects a.nav-projects,
 			.proj-art a.nav-art,
 			.contact a.nav-contact {
 				color: #ff6f1f;

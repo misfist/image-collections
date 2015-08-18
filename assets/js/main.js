@@ -10,7 +10,6 @@ $().ready( function() {
 
   $('#image-list').slick({
     slidesToShow: 6,
-    slidesToScroll: 1,
     variableWidth: false,
     asNavFor: '#feature-image',
     arrows: true,
@@ -18,7 +17,9 @@ $().ready( function() {
     centerMode: false,
     focusOnSelect: true,
     vertical: true,
-    infinite: false
+    infinite: false,
+    touchMove: true,
+    swipe: true
   });
   
 } ); 
