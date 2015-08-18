@@ -68,6 +68,8 @@ html {
 	background-color: #000;
 	color: #fff;
 	font-family: texgyreheros;
+	font-size: 14px;
+	line-height: 18px;
 }
 
 .page-wrapper {
@@ -118,39 +120,64 @@ html {
 		padding-bottom: 20px;
 	}
 
+/****************
+* Common Elements
+*****************/
+
+/*Orange: #ff6f1f
+Black: #111
+White: #fff*/
+
+a,
+a:link {
+	color: #fff;
+	text-decoration: none;
+}
+
+h1 {}
+
+h2 {
+	color: #ff6f1f;
+	font-size: 24px;
+}
+
+p {
+	padding-top: 15px;
+}
 
 /****************
 * Main Nav
 *****************/	
 
-.header .nav {
-	float: left;
-	letter-spacing: 0.04em;
-}
-
 	.nav ul {
 		list-style: none;
+		display: block;
+		width: 600px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 15px;
 	}
 
 		.nav ul li {
 			display: inline-block;
-			float: left;
-			padding-right: 10px;
-			padding-left: 10px;
+			padding-right: 20px;
+			padding-left: 20px;
 		}
 
 			.nav a {
+				display: block;
 				color: #fff;
 				text-decoration: none;
 			}
 
 			/*Active Nav States*/
 
-			.profile a.nav-profile,
-			[class^="proj-"] a.nav-projects,
-			.projects a.nav-projects,
-			.art a.nav-art,
-			.contact a.nav-contact {
+			.profile .nav-profile,
+			[class^="proj-"] .nav-projects,
+			.projects .nav-projects,
+			.art .nav-art,
+			.contact .nav-contact {
 				color: #ff6f1f;
 				font-weight: bold;
 			}
@@ -284,4 +311,255 @@ button {
 	opacity: 0;
 }
 
+/****************
+* Projects Section
+*****************/
 
+.projects main {
+	background-color: #ccc;
+	padding: 20px;
+}
+
+.projects main:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+ul.project-list {
+	list-style: none;
+	width: 100%;
+}
+
+ul.project-list a {
+	color: #ff6f1f;
+}
+
+ul.project-list li {
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 10px;
+	width: 50%;
+	float: left;
+}
+
+ul.project-list li:nth-child(3) {
+	clear: left;
+}
+
+
+/****************
+* Profile
+*****************/
+
+.profile article:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.profile article {
+	box-sizing: border-box;
+	width: 850px;
+	margin: 0 auto;
+}
+
+.profile article .body {
+	width: 520px;
+	float: left;
+}
+
+.profile article ul {
+	width: 300px;
+	float: left;
+}
+
+.profile article li {
+	padding-bottom: 10px;
+}
+
+.profile article.ebh-concept .body {
+	margin-right: 30px;
+	text-align: right;
+} 
+
+.profile article.seema-singh .body {
+	margin-left: 30px;
+}
+
+
+
+/****************
+* Contact
+*****************/
+
+.contact article:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.contact article {
+	box-sizing: border-box;
+}
+
+.contact article .body {
+	width: 620px;
+	float: left;
+}
+
+.contact article ul {
+	width: 300px;
+	float: left;
+}
+
+.contact article .body {
+	margin-left: 30px;
+}
+
+.contact article h2 {
+	font-size: 1.35em;
+}
+
+.contact article li {
+	padding-bottom: 50px;
+}
+
+/* contact form start */ 
+
+.contact-main-wrap {
+	width: 950px;
+	height: auto;
+	padding: 0 30px 0 30px;
+}
+
+.contact-page-top-text {
+	width: 950px;
+	height: 25px;
+	float; left;
+	clear: both;
+	padding-top: 30px;
+	font-size:  1.35em;  
+	letter-spacing: .005em;
+	color: rgba(50,56,55,0.80);
+	color: #FF6F1F; 
+}
+
+.contact-page-left-text {
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding-top: 53px;
+	font-size:  0.9em;
+	font-size: 20px;  
+	letter-spacing: .015em;
+	line-height: 28px;
+	color: rgba(50,56,55,1.00);
+	color: #FF6F1F;
+}
+
+.contact-thank {
+	font-style: italic;
+	font-size:  1.3em;  
+	letter-spacing: 0em;
+	line-height: 200px;
+	color: orange;
+
+}
+
+.contact-form-wrap {
+	width: 800px;
+	height: auto;
+	float: right;
+}
+
+.freecontactform {
+	width: 750px;
+	font-family: helvetica, sans-serif;
+	padding:10px;
+	float: left;
+	float: left;
+}
+
+.freecontactformheader {
+	font-size:15px;
+	font-weight:normal;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:left;
+}
+
+.freecontactformmessage {
+	text-align:center;
+	padding-bottom:10px;
+}
+
+.freecontactform td {
+	padding: 4px;
+	font-size: 0.7em;
+	color: gray;
+	letter-spacing: 0.4px;
+}
+
+.freecontactform label {
+	padding:4px ;
+	line-height: 4px;
+	vertical-align: bottom;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.required {
+	font-weight:normal;
+}
+
+.not-required {
+	font-weight:normal;
+}
+
+.antispammessage {
+	padding:10px;
+	border-top:1px solid #AAA;
+	border-bottom:1px solid #AAA;
+	font-weight:bold; 
+}
+
+.antispamquestion {
+	font-weight:normal;
+}
+
+input,
+textarea {
+	width: 230px;
+	height: 30px;
+	border: 1px solid #9cd792;
+	background-color: #F5F5F5;
+	padding:4px;
+	color: white;
+	background-color: black;
+
+textarea {
+	width:468px;
+	height:170px;
+}
+
+.submit-button {
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	background-color: #FF6F1F;
+}
+
+/* contact form end */   
+
+
+/****************
+* Responsive
+*****************/
+
+@media (max-width: 949px) {
+	.page-wrapper {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+}

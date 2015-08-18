@@ -11,8 +11,7 @@
 <link href="fonts/webfontkit-20150810-170634/stylesheet.css" rel="stylesheet" type="text/css" />
 
 <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/>
-<!-- <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css"/>
- -->
+
 <meta name="description" content=" "/>
 <meta name="keywords" content=" ">
 </head>
