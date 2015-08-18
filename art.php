@@ -103,6 +103,8 @@
         loop:true,
         center:true,
         margin:10,
+        animateIn: 'fadeIn',
+        animateOut: 'fadeOut',
         URLhashListener:true,
         autoplayHoverPause:true,
         startPosition: 'URLHash',
@@ -110,7 +112,6 @@
         nav: true,
         navText: ['<img src="images/arrow-left.png" height="20" width="12">', '<img src="images/arrow-right.png" height="20" width="12">']
     });
-
 </script>
 
 <script src="assets/js/jquery.tinycarousel.js"></script>
