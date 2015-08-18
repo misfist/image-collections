@@ -149,12 +149,8 @@ html {
 			.profile a.nav-profile,
 			[class^="proj-"] a.nav-projects,
 			.projects a.nav-projects,
-			.proj-art a.nav-art,
+			.art a.nav-art,
 			.contact a.nav-contact {
-				color: #ff6f1f;
-				font-weight: bold;
-			}
-			.proj-art a.nav-art {
 				color: #ff6f1f;
 				font-weight: bold;
 			}
