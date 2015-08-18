@@ -10,7 +10,7 @@ $().ready( function() {
 
   $('#image-list').slick({
     slidesToShow: 6,
-    slidesToScroll: 2,
+    slidesToScroll: 1,
     variableWidth: false,
     asNavFor: '#feature-image',
     arrows: true,
